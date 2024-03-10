@@ -1,0 +1,16 @@
+,model,feature_set,accuracy
+0,MLP,Feature Set 1,0.762558502
+1,RF,Feature Set 1,0.663442538
+2,KNN,Feature Set 1,0.563182527
+3,DT,Feature Set 1,0.763442538
+4,NB,Feature Set 1,0.743442538
+0,MLP,Feature Set 2,0.722662507
+1,RF,Feature Set 2,0.683442538
+2,KNN,Feature Set 2,0.623182527
+3,DT,Feature Set 2,0.783442538
+4,NB,Feature Set 2,0.773442538
+0,MLP,Feature Set 3,0.75224649
+1,RF,Feature Set 3,0.660166407
+2,KNN,Feature Set 3,0.625325013
+3,DT,Feature Set 3,0.760166407
+4,NB,Feature Set 3,0.657124285
