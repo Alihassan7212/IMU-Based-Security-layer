@@ -31,3 +31,14 @@ Gyroscope and Accelerometer-Based Security introduces a unique security layer fo
 
 ## Novelty:
 Traditional security methods, such as facial recognition and fingerprint scanning, while effective, face challenges posed by evolving technologies like deepfakes and advanced biometric replication techniques. Gyroscope and Accelerometer-Based Security introduces a novel and resilient security paradigm that goes beyond these conventional methods. By tapping into the user's natural, subconscious gestures and phone handling habits, the system establishes a unique and difficult-to-replicate behavioral biometric. This innovative approach not only enhances security but also mitigates the risks associated with emerging threats, making it a pioneering solution in the realm of mobile device security.
+
+
+## Application Images :
+<img width="1383" alt="Screenshot 2024-03-10 at 11 24 29" src="https://github.com/Alihassan7212/IMU-Based-Security-layer/assets/93111418/a0077895-301a-4a65-bfa1-b3d71bf99d15">
+![Screenshot_20240310_112137_My Application - Copy](https://github.com/Alihassan7212/IMU-Based-Security-layer/assets/93111418/be7e97d7-bf0d-4f17-ac70-afc98a64b931)
+
+
+
+
+
+
